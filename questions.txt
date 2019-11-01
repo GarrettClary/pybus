@@ -2,5 +2,4 @@
 # What is the location of the 4th slave device? 0x006E
 # What was the function code of the last query? 0x03
 # Turn off slave device that was queried in the last data request
-# Write the UnitID, FuncCode, registerLoc, registersRequest and what they mean for
-# the query: 11 03 0x006B 3
+# Write the UnitID, FuncCode, registerLoc, registersRequest and what they mean for the query: 11 03 0x006B 3
